@@ -1,0 +1,22 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CasteAwayy/test_api_worldwise.git"
+  },
+  "author": "George Okumu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CasteAwayy/test_api_worldwise/issues"
+  },
+  "homepage": "https://github.com/CasteAwayy/test_api_worldwise#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
